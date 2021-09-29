@@ -1,7 +1,7 @@
 # Making-Change
 C++ program that implements a greedy algorithm.
 
-This program solves the problem of making change. Given input of a set of coin dnominations, the program implements a greedy algorithm to find the minimum number of coins required to make up a certain amount.
+This program solves the problem of making change. Given input of a set of coin denominations, the program implements a greedy algorithm to find the minimum number of coins required to make up a certain amount.
 
 For example: Given a set of coins C = {1, 2, 5, 10, 20, 50, 100}, what is the minimum number of coins to make the amount 83?
 In this case we would use  1x50 + 1x20 + 1x10 + 1x2 + 1x1. So the minimum number of coins needed is 5.
